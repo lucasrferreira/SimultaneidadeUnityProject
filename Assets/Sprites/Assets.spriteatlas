@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Assets
+  m_EditorData:
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingParameters:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: f8d693964ab6a794881afea0e016a77d, type: 3}
+    - {fileID: 2800000, guid: b9352588ca651884d81c0a670bfd2442, type: 3}
+    - {fileID: 2800000, guid: af95484220c018e4b8562f778ee1c21a, type: 3}
+    - {fileID: 2800000, guid: 8cac19ec59ed08844b66ac285940442f, type: 3}
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: af95484220c018e4b8562f778ee1c21a, type: 3}
+  - {fileID: 21300000, guid: b9352588ca651884d81c0a670bfd2442, type: 3}
+  - {fileID: 21300000, guid: f8d693964ab6a794881afea0e016a77d, type: 3}
+  - {fileID: 21300000, guid: 8cac19ec59ed08844b66ac285940442f, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - storm-1280554_960_720
+  - EinsteinTrem
+  - Einstein
+  - Fundo 2
+  m_Tag: Assets
+  m_IsVariant: 0
